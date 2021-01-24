@@ -1,8 +1,8 @@
-id_customer,id_product,nombre,cantidad,valor,Ciudad
-1019,2015,Lettuce - Frisee,9,$71.37,As Suwaydā
+﻿id_customer,id_product,nombre,cantidad,valor,Ciudad
+1019,2015,Lettuce - Frisee,9,$71.37,As SuwaydÄ
 1001,2099,Chips - Doritos,1,$76.44,Czerniewice
-1015,2088,Potatoes - Yukon Gold 5 Oz,2,$44.86,Dūāb
-1037,2079,Muffin - Mix - Strawberry Rhubarb,5,$11.09,Náousa
+1015,2088,Potatoes - Yukon Gold 5 Oz,2,$44.86,DÅ«Äb
+1037,2079,Muffin - Mix - Strawberry Rhubarb,5,$11.09,NÃ¡ousa
 1021,2076,Muffin - Zero Transfat,4,$91.92,Xiqiao
 1046,2067,Veal - Osso Bucco,0,$44.20,Serra de Santa Marinha
 1014,2075,Soup - Campbells - Chicken Noodle,5,$13.69,Gandusari
@@ -13,9 +13,9 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1018,2082,Tea - Herbal - 6 Asst,5,$44.95,Castelo
 1018,2047,Butter - Salted,6,$78.74,Boca de Parita
 1047,2074,Cinnamon Buns Sticky,1,$44.01,Ningtang
-1045,2043,Wine - Alsace Gewurztraminer,3,$16.07,Piteå
+1045,2043,Wine - Alsace Gewurztraminer,3,$16.07,PiteÃ¥
 1032,2018,Rice - Wild,7,$51.82,Balayang
-"1043,2070,""Beer - Alexander Kieths, Pale Ale"",5,$87.73,Sumqayıt"
+"1043,2070,""Beer - Alexander Kieths, Pale Ale"",5,$87.73,SumqayÄ±t"
 "1024,2095,""Sole - Dover, Whole, Fresh"",1,$59.96,Taroudant"
 1004,2065,Eel - Smoked,4,$41.48,Putou
 1035,2041,Gatorade - Lemon Lime,6,$98.81,Almafuerte
@@ -31,26 +31,26 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1017,2039,Tomatoes - Heirloom,5,$55.31,Lypova Dolyna
 1047,2051,Beef Wellington,1,$45.87,Malichang
 1017,2028,Bacardi Breezer - Strawberry,6,$61.26,Shouzhan
-1045,2064,Dooleys Toffee,8,$71.82,Yur’yevets
+1045,2064,Dooleys Toffee,8,$71.82,Yurâ€™yevets
 1024,2010,Chocolate - Unsweetened,2,$25.00,Sidomukti
 1021,2022,Tea - Honey Green Tea,8,$22.92,Jiaogong
 1011,2094,Mini - Vol Au Vents,9,$57.20,Jiedu
 1019,2059,Lime Cordial - Roses,8,$82.16,High River
-1016,2084,Chinese Foods - Thick Noodles,7,$5.85,Filiatrá
+1016,2084,Chinese Foods - Thick Noodles,7,$5.85,FiliatrÃ¡
 1014,2042,Gatorade - Fruit Punch,10,$86.63,Nikki
 1038,2091,Oil - Peanut,0,$27.39,Dandai
 "1039,2056,""Nut - Walnut, Chopped"",5,$42.42,San Rafael Petzal"
 1037,2044,Container Clear 8 Oz,7,$15.79,San Pedro
 1022,2052,Vegetable - Base,2,$93.38,Baoxing
-1010,2014,Energy Drink - Redbull 355ml,5,$57.19,Galátsi
+1010,2014,Energy Drink - Redbull 355ml,5,$57.19,GalÃ¡tsi
 1044,2080,Versatainer Nc - 8288,1,$66.07,Ialibu
 1029,2017,Cucumber - Pickling Ontario,3,$12.88,Sukamanah
-1014,2010,Glass Clear 7 Oz Xl,4,$75.22,Bystřany
+1014,2010,Glass Clear 7 Oz Xl,4,$75.22,BystÅ™any
 1010,2046,Uniform Linen Charge,9,$43.56,Tonantins
 1007,2012,Milk - Chocolate 250 Ml,1,$6.24,Chak Two Hundred Forty-Nine TDA
 1046,2055,Bagel - Everything Presliced,0,$69.82,Shatian
 1019,2027,Muffin Hinge Container 6,8,$74.31,Boyang
-1040,2034,Jagermeister,2,$87.61,Pagsañgahan
+1040,2034,Jagermeister,2,$87.61,PagsaÃ±gahan
 1000,2076,Chinese Foods - Cantonese,2,$21.51,Julita
 1043,2017,Wine - Lamancha Do Crianza,2,$63.59,Xinglongchang
 1040,2018,Beef - Rib Eye Aaa,3,$83.82,Rahayu Dua
@@ -59,7 +59,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1027,2065,Apricots Fresh,7,$25.67,Hennenman
 1045,2055,Raisin - Golden,5,$82.37,Ngroto
 1030,2085,Beef - Striploin,4,$65.58,Passos
-1000,2025,Pears - Bartlett,2,$35.12,Hovås
+1000,2025,Pears - Bartlett,2,$35.12,HovÃ¥s
 1003,2008,Crab - Meat,4,$99.10,Hamburg Winterhude
 1007,2053,Pastry - Baked Cinnamon Stick,1,$12.61,Corbeil-Essonnes
 1003,2035,Tea - Mint,10,$24.82,Dawuhan
@@ -71,31 +71,31 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1045,2001,Soho Lychee Liqueur,10,$80.11,Beigou
 "1007,2096,""Liqueur Banana, Ramazzotti"",1,$63.29,Guanlu"
 1036,2001,Beef - Bresaola,3,$67.46,Kaffrine
-1036,2059,Juice - Prune,7,$84.23,Solčava
+1036,2059,Juice - Prune,7,$84.23,SolÄava
 1008,2062,Pepper - Green,4,$48.65,Kolbuszowa
 1005,2091,Wine - Chianti Classico Riserva,10,$58.68,Duayaw Nkwanta
 1049,2025,Pork - Smoked Back Bacon,1,$56.25,Pahing Pamulihan
 1029,2045,Appetizer - Asian Shrimp Roll,5,$2.45,Church End
-1002,2057,Bar Energy Chocchip,10,$53.61,Pirallahı
+1002,2057,Bar Energy Chocchip,10,$53.61,PirallahÄ±
 "1008,2086,""Mushroom - Enoki, Fresh"",0,$1.57,Ami"
 1021,2085,Numi - Assorted Teas,4,$56.07,Kema
 1038,2046,Beer - Heinekin,6,$86.26,Shiliting
 1025,2036,Chutney Sauce,7,$42.02,Margoyoso
-1035,2038,Sultanas,7,$84.75,Ořechov
-1028,2093,Broom - Push,5,$40.05,Novo Aripuanã
-1027,2075,Wine - Beaujolais Villages,2,$70.23,Morcellemont Saint André
-1033,2059,Beef Tenderloin Aaa,9,$76.99,Banī Walīd
+1035,2038,Sultanas,7,$84.75,OÅ™echov
+1028,2093,Broom - Push,5,$40.05,Novo AripuanÃ£
+1027,2075,Wine - Beaujolais Villages,2,$70.23,Morcellemont Saint AndrÃ©
+1033,2059,Beef Tenderloin Aaa,9,$76.99,BanÄ« WalÄ«d
 1014,2073,Bread - 10 Grain,5,$77.23,Askim
 1049,2044,Ice Cream - Vanilla,1,$31.14,Semiring
 1027,2022,Extract Vanilla Pure,10,$24.88,Kliteh
-1023,2098,Whmis - Spray Bottle Trigger,10,$42.96,Krzeszów
+1023,2098,Whmis - Spray Bottle Trigger,10,$42.96,KrzeszÃ³w
 1015,2063,Papadam,7,$22.54,Tengah
 1006,2096,Apples - Sliced / Wedge,6,$71.46,Pidvynohradiv
 1030,2073,Cheese - Goat,8,$61.92,Pingshan
 1032,2045,Coffee Decaf Colombian,7,$49.90,Kota Bharu
 "1008,2069,""Nut - Almond, Blanched, Whole"",6,$54.45,Brloh"
 1036,2003,Sauce - Thousand Island,2,$73.54,Singida
-1028,2058,Milk - Skim,5,$87.79,Sharïngol
+1028,2058,Milk - Skim,5,$87.79,SharÃ¯ngol
 1016,2008,Veal - Kidney,10,$31.65,Uryupinsk
 1014,2038,Juice - Cranberry 284ml,1,$27.00,Hrazdan
 "1021,2062,""Pasta - Fusili, Dry"",0,$69.45,Siyabuswa"
@@ -118,18 +118,18 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1028,2014,Steel Wool,10,$75.06,Liupai
 1050,2099,True - Vue Containers,0,$17.68,Tonga
 1005,2100,Puree - Passion Fruit,2,$9.50,Gumel
-1008,2026,Cheese - Gorgonzola,9,$32.84,Miðvágur
+1008,2026,Cheese - Gorgonzola,9,$32.84,MiÃ°vÃ¡gur
 1043,2086,Chives - Fresh,3,$19.36,Xiaopu
 1026,2083,Pur Value,4,$21.51,Rantepang
-"1049,2071,""Red Snapper - Fresh, Whole"",6,$55.96,Heydərabad"
+"1049,2071,""Red Snapper - Fresh, Whole"",6,$55.96,HeydÉ™rabad"
 1046,2051,Kiwano,10,$72.68,Ranua
-"1012,2013,""Red Snapper - Fillet, Skin On"",2,$52.66,Boé"
+"1012,2013,""Red Snapper - Fillet, Skin On"",2,$52.66,BoÃ©"
 1033,2079,Ice Cream Bar - Oreo Sandwich,2,$31.30,Mache
 1045,2039,Cheese - St. Paulin,10,$65.30,Voznesenskoye
 1029,2006,Steampan - Lid For Half Size,5,$65.26,Jinshi
 "1020,2002,""Nut - Peanut, Roasted"",1,$25.60,San Miguel"
 1017,2048,Pastry - Banana Muffin - Mini,3,$68.17,Pumai
-1005,2048,Mix - Cocktail Strawberry Daiquiri,6,$88.36,Izobil’nyy
+1005,2048,Mix - Cocktail Strawberry Daiquiri,6,$88.36,Izobilâ€™nyy
 1001,2017,Urban Zen Drinks,4,$85.10,Serra Talhada
 1039,2007,Tea - Green,7,$44.48,Digos
 1043,2029,Prunes - Pitted,6,$76.67,Scarborough
@@ -167,7 +167,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1046,2019,""Shrimp - 21/25, Peel And Deviened"",3,$56.13,Xinjia"
 1013,2082,Salad Dressing,7,$9.51,Sainte-Anne-des-Monts
 1019,2033,Mahi Mahi,10,$22.46,Khorramdarreh
-1039,2056,Mayonnaise,8,$33.86,Shādegān
+1039,2056,Mayonnaise,8,$33.86,ShÄdegÄn
 1042,2087,Pastry - Banana Muffin - Mini,5,$72.32,Banjar Baleagung
 1047,2009,Mushroom Morel Fresh,6,$95.76,Pasirhuni
 1015,2100,Wine - Chardonnay Mondavi,8,$82.50,Guamal
@@ -178,12 +178,12 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1036,2077,Pork Loin Cutlets,6,$92.23,Torres Vedras
 "1006,2005,""Nut - Chestnuts, Whole"",10,$73.36,Kaga Bandoro"
 1005,2004,Roe - White Fish,9,$18.62,Socorro
-1011,2058,Pork Salted Bellies,4,$65.85,Ji’ergele Teguoleng
+1011,2058,Pork Salted Bellies,4,$65.85,Jiâ€™ergele Teguoleng
 1040,2094,V8 Pet,9,$61.14,Batutulis
 1010,2000,Blouse / Shirt / Sweater,4,$52.02,Chantepie
-1043,2023,Cheese - Camembert,7,$4.51,Río Blanco
-1036,2071,Eggplant Italian,3,$87.66,Trollhättan
-1015,2067,Phyllo Dough,0,$4.60,Arujá
+1043,2023,Cheese - Camembert,7,$4.51,RÃ­o Blanco
+1036,2071,Eggplant Italian,3,$87.66,TrollhÃ¤ttan
+1015,2067,Phyllo Dough,0,$4.60,ArujÃ¡
 1004,2057,Capers - Pickled,7,$77.19,Port Hawkesbury
 1035,2083,Fenngreek Seed,3,$97.56,Pujijie
 "1043,2094,""Beans - Long, Chinese"",6,$94.80,Banjar Budakeling"
@@ -192,15 +192,15 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1006,2025,Wine - Balbach Riverside,2,$68.67,Tateyama
 1021,2069,Spinach - Packaged,0,$92.27,Pacatuba
 "1017,2069,""Mustard - Dry, Powder"",6,$86.52,Praimarada"
-1022,2031,Alize Sunset,5,$58.14,Santa Fé do Sul
+1022,2031,Alize Sunset,5,$58.14,Santa FÃ© do Sul
 1015,2023,Wine - Gewurztraminer Pierre,5,$33.96,Kamwenge
-1020,2042,Wine - Shiraz South Eastern,2,$7.92,Rustāq
+1020,2042,Wine - Shiraz South Eastern,2,$7.92,RustÄq
 1037,2088,Plasticknivesblack,6,$52.99,Yengiawat
 1022,2062,Beef - Tenderloin Tails,8,$93.78,Nunbaundelha
 1046,2054,Coconut - Whole,4,$3.80,Sabanalarga
 1000,2000,Longos - Penne With Pesto,7,$88.25,Gelin
 1045,2065,Energy Drink - Franks Pineapple,7,$23.37,Tupsan
-1046,2004,Towel - Roll White,9,$86.10,Ostrów Mazowiecka
+1046,2004,Towel - Roll White,9,$86.10,OstrÃ³w Mazowiecka
 "1034,2073,""Crab - Back Fin Meat, Canned"",10,$30.86,Lendangara Satu"
 1044,2078,Radish - Pickled,1,$10.90,Suwaru
 1048,2008,Chocolate - Mi - Amere Semi,9,$99.30,Biyan
@@ -209,8 +209,8 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1043,2004,Star Fruit,5,$12.35,Purda
 1021,2062,Cocoa Powder - Dutched,3,$4.23,Phoenix
 1039,2051,Lettuce - Radicchio,4,$91.67,Bahui
-1000,2084,Truffle - Peelings,3,$53.73,Andkhōy
-1016,2030,Lemon Tarts,6,$74.36,Borås
+1000,2084,Truffle - Peelings,3,$53.73,AndkhÅy
+1016,2030,Lemon Tarts,6,$74.36,BorÃ¥s
 1047,2080,Kellogs All Bran Bars,1,$83.85,Az Zarbah
 1033,2045,Flavouring Vanilla Artificial,2,$10.90,Leleque
 1009,2012,Glass - Juice Clear 5oz 55005,3,$26.06,Klippan
@@ -219,16 +219,16 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1005,2088,Spice - Paprika,5,$86.43,Aghada
 1026,2044,Cheese - Gouda Smoked,4,$26.69,Nanyang
 1016,2098,White Baguette,8,$79.74,Xianshui
-1046,2073,Frangelico,2,$2.99,Néa Flogitá
+1046,2073,Frangelico,2,$2.99,NÃ©a FlogitÃ¡
 1034,2056,Wine - Sauvignon Blanc,9,$13.41,Kibondo
 1010,2053,Pork - Ground,4,$42.53,Moholm
-1017,2029,Honey - Lavender,3,$8.08,Lázně Kynžvart
+1017,2029,Honey - Lavender,3,$8.08,LÃ¡znÄ› KynÅ¾vart
 "1012,2068,""Pasta - Canelloni, Single Serve"",4,$48.66,Longxi"
 1018,2095,Soup - French Can Pea,4,$77.51,Mulandoro
 1008,2023,Miso Paste White,3,$28.83,Cherepovets
 1007,2066,Bread - French Stick,1,$84.58,Nagbacalan
 1032,2058,Cheese - Shred Cheddar / Mozza,4,$59.43,Monsanto
-1045,2067,Lidsoupcont Rp12dn,7,$18.34,Tasīl
+1045,2067,Lidsoupcont Rp12dn,7,$18.34,TasÄ«l
 "1006,2071,""Brandy - Orange, Mc Guiness"",7,$94.90,Jiquilillo"
 1032,2059,Arctic Char - Fillets,9,$86.35,Helmsange
 "1038,2030,""Gingerale - Schweppes, 355 Ml"",10,$64.80,Karangsuko"
@@ -243,19 +243,19 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1004,2030,Beef Flat Iron Steak,1,$46.61,Naples
 "1047,2006,""Soup - Campbells, Lentil"",8,$86.24,Brailiv"
 1008,2063,Shrimp - 31/40,10,$92.90,Indianapolis
-1028,2100,Red Pepper Paste,10,$34.55,Al Mazra‘ah
-1022,2078,Tequila - Sauza Silver,10,$98.10,Strenči
+1028,2100,Red Pepper Paste,10,$34.55,Al Mazraâ€˜ah
+1022,2078,Tequila - Sauza Silver,10,$98.10,StrenÄi
 1012,2040,Soap - Hand Soap,8,$9.77,Sim
 1001,2078,Potatoes - Yukon Gold 5 Oz,5,$23.23,Calatrava
 1049,2028,Longos - Grilled Salmon With Bbq,7,$74.50,Torres Vedras
 "1010,2045,""Juice - Apple, 341 Ml"",7,$64.50,Dashu"
-1023,2022,Eggplant Italian,7,$53.07,Bom Jesus dos Perdões
+1023,2022,Eggplant Italian,7,$53.07,Bom Jesus dos PerdÃµes
 1010,2065,Cilantro / Coriander - Fresh,3,$30.67,Obubra
 "1033,2087,""Quail - Whole, Bone - In"",2,$89.79,Loudi"
 1009,2021,Cookie Trail Mix,2,$7.58,Huaminglou
 1046,2026,Wine - Alicanca Vinho Verde,5,$35.53,Zhaojia
-1034,2052,Jameson - Irish Whiskey,2,$81.02,Yŏnan-ŭp
-1004,2077,Beer - Camerons Auburn,5,$95.02,Ḩuwwārah
+1034,2052,Jameson - Irish Whiskey,2,$81.02,YÅnan-Å­p
+1004,2077,Beer - Camerons Auburn,5,$95.02,á¸¨uwwÄrah
 1015,2090,Beer - Sleemans Cream Ale,4,$91.00,Chengfeng
 1012,2084,Tea - Herbal I Love Lemon,4,$37.79,Sumberjeruk
 1005,2041,Bagelers - Cinn / Brown Sugar,0,$12.50,Capacho Nuevo
@@ -264,32 +264,32 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1024,2005,Veal - Loin,7,$5.50,Weiqi
 1021,2081,Raspberries - Fresh,8,$22.45,Hujiaying
 "1023,2086,""Beef - Ox Tongue, Pickled"",0,$89.13,Sanzao"
-1023,2049,Bar - Granola Trail Mix Fruit Nut,1,$16.19,Gominhães
-1012,2047,Bar Special K,7,$9.30,Āsbe Teferī
+1023,2049,Bar - Granola Trail Mix Fruit Nut,1,$16.19,GominhÃ£es
+1012,2047,Bar Special K,7,$9.30,Ä€sbe TeferÄ«
 1042,2057,Eggwhite Frozen,1,$45.54,Krasnaya Gorka
 "1006,2063,""Lamb - Leg, Boneless"",1,$94.46,El Real"
 1022,2064,Bagel - Everything,10,$56.38,Tejar
 1013,2002,Hersey Shakes,8,$87.36,Coronel
 "1035,2034,""Mushroom - Shitake, Fresh"",6,$43.46,Guanli"
 1001,2009,Muffin Chocolate Individual Wrap,1,$11.17,Rafael Hernandez Ochoa
-1005,2019,Appetizer - Assorted Box,2,$36.82,Guérande
+1005,2019,Appetizer - Assorted Box,2,$36.82,GuÃ©rande
 "1030,2042,""Syrup - Golden, Lyles"",3,$31.31,Amarillo"
 1043,2090,Wine - Barbera Alba Doc 2001,5,$5.55,Saari
 1027,2074,Dc - Sakura Fu,6,$20.21,Liangdong
 1024,2040,Wiberg Super Cure,1,$51.23,Moramanga
 1008,2020,Yoplait - Strawbrasp Peac,5,$39.23,Gonghe
 1050,2011,Pasta - Orecchiette,1,$67.41,Manukaka
-1041,2004,Liners - Baking Cups,6,$62.53,Khamyāb
+1041,2004,Liners - Baking Cups,6,$62.53,KhamyÄb
 1016,2033,Sprouts - Alfalfa,2,$92.89,Porto Calvo
 "1049,2079,""Pork - Bacon, Double Smoked"",4,$94.12,Doubravice nad Svitavou"
 "1031,2058,""Shrimp - 16/20, Peeled Deviened"",10,$89.67,Wanurian"
 1014,2024,Tilapia - Fillets,10,$54.03,Faya-Largeau
 1001,2037,Mustard - Seed,6,$49.59,Carania
 1050,2089,Vol Au Vents,1,$7.80,Reconquista
-1028,2048,Potatoes - Idaho 100 Count,10,$36.08,Schäffern
+1028,2048,Potatoes - Idaho 100 Count,10,$36.08,SchÃ¤ffern
 1013,2073,Cheese - Cream Cheese,1,$42.16,San Miguel
 1011,2025,Yeast Dry - Fermipan,9,$16.65,Shaguotun
-1023,2099,Buttons,9,$80.26,České Meziříčí
+1023,2099,Buttons,9,$80.26,ÄŒeskÃ© MeziÅ™Ã­ÄÃ­
 1007,2050,Lamb Rack - Ontario,3,$44.87,Tamansari
 "1026,2092,""Asparagus - White, Canned"",0,$30.60,Pulau Pinang"
 1042,2011,Miso - Soy Bean Paste,4,$52.26,Arrifes
@@ -315,27 +315,27 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1003,2049,Tomatoes - Hot House,10,$98.24,Rauna
 1040,2046,True - Vue Containers,1,$29.50,Zhaojia
 1037,2045,Pepper - Green Thai,0,$23.86,Carumas
-1012,2060,Vodka - Moskovskaya,7,$61.98,Chư Prông
-1025,2083,Beef - Ground Medium,8,$56.22,Nyūzen
+1012,2060,Vodka - Moskovskaya,7,$61.98,ChÆ° PrÃ´ng
+1025,2083,Beef - Ground Medium,8,$56.22,NyÅ«zen
 "1001,2097,""Shrimp - 16/20, Iqf, Shell On"",6,$33.46,Sotomayor"
 1017,2089,Bonito Flakes - Toku Katsuo,2,$72.37,Degerfors
 1017,2000,Coffee - French Vanilla Frothy,6,$8.12,Cai Doi Vam
-1021,2084,Scallops - In Shell,4,$20.86,Firá
+1021,2084,Scallops - In Shell,4,$20.86,FirÃ¡
 "1022,2050,""Sauce - White, Mix"",9,$63.96,Qishui"
-1037,2072,Glass Clear 7 Oz Xl,8,$38.16,Néa Péramos
+1037,2072,Glass Clear 7 Oz Xl,8,$38.16,NÃ©a PÃ©ramos
 1043,2034,Cookie Dough - Chunky,2,$24.27,Zapolyarnyy
 "1003,2024,""Wine - Red, Antinori Santa"",3,$67.33,Choibalsan"
-1014,2000,Oil - Olive,8,$80.28,Vřesina
+1014,2000,Oil - Olive,8,$80.28,VÅ™esina
 1017,2021,Cheese Cloth No 60,10,$31.90,Yaojiagou
 1028,2046,Instant Coffee,10,$60.07,Kampen (Overijssel)
 "1029,2072,""Tomatoes - Diced, Canned"",6,$21.56,Dayou"
 1011,2044,Ham - Cooked Italian,6,$10.35,Shakhty
 1050,2034,Pastry - Carrot Muffin - Mini,1,$88.10,Si Khoraphum
-"1022,2078,""Lentils - Green, Dry"",4,$64.75,Ma’ao"
+"1022,2078,""Lentils - Green, Dry"",4,$64.75,Maâ€™ao"
 1003,2015,Pear - Halves,4,$17.93,Xinchenglu
 "1005,2025,""Chicken - Thigh, Bone In"",8,$72.62,Uwelini"
 1046,2044,Apricots - Dried,1,$58.71,Nsanje
-1043,2066,Paste - Black Olive,0,$57.18,Mikrókampos
+1043,2066,Paste - Black Olive,0,$57.18,MikrÃ³kampos
 1006,2046,Olives - Stuffed,4,$61.66,Ewarton
 1006,2091,Pastry - Cheese Baked Scones,3,$29.31,Avignon
 1013,2068,Yukon Jack,3,$39.53,Kotabumi
@@ -347,16 +347,16 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1045,2050,Apple - Macintosh,5,$69.01,Kastsyukowka
 1021,2025,Wine - Chateau Aqueria Tavel,5,$93.51,Lyon
 1043,2092,Anchovy In Oil,8,$8.68,Kastrat
-1009,2080,Beef - Top Butt,0,$47.31,La Bélgica
+1009,2080,Beef - Top Butt,0,$47.31,La BÃ©lgica
 1000,2095,Soup - Campbells Chili Veg,4,$39.41,Lingbei
 1000,2049,Pork - Belly Fresh,2,$79.05,Bluff
 1025,2088,Sugar - Cubes,0,$53.91,Cibaregbeg
 1044,2083,Vector Energy Bar,7,$6.15,Guilmaro
-1015,2072,Truffle Cups Green,8,$96.86,Årjäng
+1015,2072,Truffle Cups Green,8,$96.86,Ã…rjÃ¤ng
 1018,2062,Beef - Tender Tips,4,$45.86,Toulouse
-1039,2010,Tomatillo,6,$51.68,Néa Ankhíalos
+1039,2010,Tomatillo,6,$51.68,NÃ©a AnkhÃ­alos
 1021,2042,Salmon Steak - Cohoe 6 Oz,1,$53.19,Ciparay
-"1030,2088,""Beef - Cooked, Corned"",8,$80.79,Linköping"
+"1030,2088,""Beef - Cooked, Corned"",8,$80.79,LinkÃ¶ping"
 1041,2077,Cognac - Courvaisier,5,$17.30,Kalijeruk
 1023,2044,Cookie Dough - Double,3,$36.48,Bollstabruk
 1040,2026,Figs,0,$24.35,Winangun
@@ -364,11 +364,11 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1004,2043,Beer - Sleemans Honey Brown,3,$1.33,Erandique
 1032,2059,Calaloo,1,$81.48,Barong
 "1041,2021,""Soup - Campbells, Creamy"",5,$42.80,Vischongo"
-1040,2066,Wine - Bouchard La Vignee Pinot,10,$77.10,Stroitel’
+1040,2066,Wine - Bouchard La Vignee Pinot,10,$77.10,Stroitelâ€™
 1044,2099,Shiratamako - Rice Flour,1,$66.91,Huaqiao
 1047,2040,Cheese - Comtomme,2,$54.24,Nejo
 "1028,2016,""Pasta - Rotini, Dry"",8,$18.02,Waitakere"
-1023,2049,Vinegar - Red Wine,6,$84.85,Mladá Boleslav
+1023,2049,Vinegar - Red Wine,6,$84.85,MladÃ¡ Boleslav
 "1002,2025,""Vermouth - White, Cinzano"",3,$7.29,Bakulong"
 "1036,2027,""Wine - Red, Gamay Noir"",4,$7.75,Kangaslampi"
 "1013,2059,""Wine - Red, Gallo, Merlot"",8,$84.74,Okocim"
@@ -386,34 +386,34 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1048,2048,Glaze - Clear,2,$74.61,Tantu
 "1049,2090,""Turkey - Breast, Double"",9,$41.00,Hefu"
 1038,2020,Onions - Vidalia,9,$74.09,Evinayong
-1016,2023,Tomatoes - Orange,8,$62.39,Pāshmūl
+1016,2023,Tomatoes - Orange,8,$62.39,PÄshmÅ«l
 "1024,2055,""Cheese - Mozzarella, Buffalo"",3,$56.05,Ngozi"
 1018,2001,Shrimp - Black Tiger 26/30,3,$13.37,Jiegan
-1004,2026,Tarts Assorted,9,$56.37,Al Mayādīn
+1004,2026,Tarts Assorted,9,$56.37,Al MayÄdÄ«n
 1034,2017,Kellogs Cereal In A Cup,9,$61.16,Buyant
-1034,2050,Garam Masala Powder,9,$7.39,Rosário do Sul
-1019,2080,Beef - Eye Of Round,0,$88.70,Verkhniye Osel’ki
+1034,2050,Garam Masala Powder,9,$7.39,RosÃ¡rio do Sul
+1019,2080,Beef - Eye Of Round,0,$88.70,Verkhniye Oselâ€™ki
 1014,2046,Truffle Shells - Semi - Sweet,5,$40.81,Zgurovka
-1032,2045,Lobster - Live,1,$57.42,Dārāb
+1032,2045,Lobster - Live,1,$57.42,DÄrÄb
 1007,2017,Chevril,1,$23.37,Liusi
 1035,2086,Lambcasing,7,$10.60,Wanareja
 "1046,2073,""Fish - Scallops, Cold Smoked"",6,$34.96,San Carlos de Bariloche"
 1029,2047,Squeeze Bottle,4,$51.46,Salcedo
 1009,2093,Pear - Prickly,2,$91.31,Fuming
-"1032,2040,""Water, Tap"",8,$40.43,Pisão"
+"1032,2040,""Water, Tap"",8,$40.43,PisÃ£o"
 1012,2019,Chickensplit Half,3,$56.33,Huddinge
 1047,2043,Basil - Thai,4,$20.00,Tayabamba
-1019,2053,Bread Base - Goodhearth,4,$7.76,Raszków
+1019,2053,Bread Base - Goodhearth,4,$7.76,RaszkÃ³w
 1027,2083,Soup - Tomato Mush. Florentine,9,$56.76,Cibanten
 1035,2012,Pastry - Cherry Danish - Mini,0,$97.19,Osieck
 1047,2084,French Kiss Vanilla,0,$6.57,Dongtang
 1047,2007,Barley - Pearl,5,$54.43,Noeltoko
 1001,2055,Tomatoes - Roma,9,$55.32,Sangumata
 1040,2094,Cleaner - Lime Away,2,$83.54,Qiuchuan
-1020,2009,Bread - Rosemary Focaccia,6,$10.01,Savran’
+1020,2009,Bread - Rosemary Focaccia,6,$10.01,Savranâ€™
 1034,2079,Magnotta - Bel Paese White,10,$2.06,El Doncello
 "1047,2002,""Sugar - Brown, Individual"",6,$89.07,Omsk"
-1045,2007,Calypso - Black Cherry Lemonade,4,$54.10,Georgīevka
+1045,2007,Calypso - Black Cherry Lemonade,4,$54.10,GeorgÄ«evka
 1039,2076,French Kiss Vanilla,9,$87.43,Youwarou
 1002,2007,Cookies Almond Hazelnut,3,$95.67,Guararapes
 1016,2080,Wine - Rhine Riesling Wolf Blass,7,$27.76,Zhemtala
@@ -426,13 +426,13 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1039,2098,Muffin Mix - Lemon Cranberry,9,$83.11,Quitilipi
 1029,2016,Sauce - Marinara,6,$79.91,Wagini
 "1013,2069,""Lamb - Shoulder, Boneless"",8,$23.08,Severnyy"
-1029,2012,Spaghetti Squash,7,$56.18,Anastácio
+1029,2012,Spaghetti Squash,7,$56.18,AnastÃ¡cio
 "1023,2009,""Pork - Bacon, Sliced"",10,$6.52,Macroom"
-1022,2096,Wine - Sicilia Igt Nero Avola,1,$71.95,Tučepi
+1022,2096,Wine - Sicilia Igt Nero Avola,1,$71.95,TuÄepi
 1047,2004,Wine - Rubyport,8,$32.29,Emiliano Zapata
-"1001,2045,""Wine - White, Pinot Grigio"",6,$13.61,Melíti"
+"1001,2045,""Wine - White, Pinot Grigio"",6,$13.61,MelÃ­ti"
 1027,2043,Cattail Hearts,9,$81.60,Werbkowice
-1041,2072,Soup - Campbells Bean Medley,3,$19.70,Bayt Ta‘mar
+1041,2072,Soup - Campbells Bean Medley,3,$19.70,Bayt Taâ€˜mar
 "1024,2045,""Dill - Primerba, Paste"",7,$56.43,Denver"
 "1036,2053,""Pepper - Black, Ground"",4,$54.75,Tumpakkepuh"
 1017,2056,Bread - Frozen Basket Variety,2,$33.99,Bentengjawa
@@ -442,39 +442,39 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1017,2039,""Tart Shells - Sweet, 4"",10,$25.04,Cigintung"
 "1014,2014,""Pork - Bacon, Double Smoked"",3,$41.82,Badajoz"
 1050,2038,Duck - Fat,2,$65.53,Weihe
-1021,2090,Sunflower Seed Raw,7,$98.56,Sarmīn
-1020,2092,Steel Wool S.o.s,3,$75.83,Jönköping
+1021,2090,Sunflower Seed Raw,7,$98.56,SarmÄ«n
+1020,2092,Steel Wool S.o.s,3,$75.83,JÃ¶nkÃ¶ping
 "1022,2031,""Wine - Magnotta - Red, Baco"",9,$88.95,Songgai"
 "1039,2048,""Veal - Chops, Split, Frenched"",6,$11.71,Uppsala"
 1034,2010,Chicken - Tenderloin,3,$16.67,Ciela Lebak
 "1050,2056,""Nut - Cashews, Whole, Raw"",6,$86.99,San Francisco"
 1033,2079,Lettuce - Baby Salad Greens,6,$3.58,Beloeil
-1006,2024,Ice Cream Bar - Rolo Cone,6,$78.26,Břeclav
+1006,2024,Ice Cream Bar - Rolo Cone,6,$78.26,BÅ™eclav
 1044,2008,Assorted Desserts,8,$25.44,Kalate
 1034,2072,Arctic Char - Fillets,4,$97.06,Lembursawah
 1024,2085,Appetizer - Assorted Box,2,$61.65,Xinning
 1000,2052,Nantucket - Kiwi Berry Cktl.,4,$30.27,Boroon
 1018,2036,Bulgar,8,$7.69,Izingolweni
 1041,2077,Cup - 4oz Translucent,2,$43.37,Chone
-1038,2006,Longos - Grilled Salmon With Bbq,6,$49.79,Ar Ruḩaybah
-1003,2096,Beer - True North Strong Ale,7,$69.23,Caeté
+1038,2006,Longos - Grilled Salmon With Bbq,6,$49.79,Ar Ruá¸©aybah
+1003,2096,Beer - True North Strong Ale,7,$69.23,CaetÃ©
 1007,2027,Chocolate - Compound Coating,8,$99.68,Comagascas
 1028,2029,Mushroom - White Button,7,$93.59,Narong
 1012,2009,Lamb - Shanks,4,$46.62,Dahuang
 "1000,2013,""Lettuce - Romaine, Heart"",9,$64.82,Reriz"
 1001,2023,Bread Base - Toscano,7,$28.24,Huanggu
 1018,2059,Corn Syrup,7,$74.74,Nnewi
-1001,2055,Pails With Lids,10,$45.29,Skövde
+1001,2055,Pails With Lids,10,$45.29,SkÃ¶vde
 1036,2100,Compound - Orange,4,$63.68,La Cueva
-1031,2084,Veal - Kidney,2,$51.78,Markópoulo
+1031,2084,Veal - Kidney,2,$51.78,MarkÃ³poulo
 "1011,2060,""Lettuce - Romaine, Heart"",0,$64.09,Xinhe"
 1011,2000,Longos - Chicken Cordon Bleu,0,$80.73,Rajsko
 1037,2089,Mcguinness - Blue Curacao,8,$98.14,Xunjian
-1047,2094,Apron,10,$37.16,Trollhättan
+1047,2094,Apron,10,$37.16,TrollhÃ¤ttan
 1048,2037,Juice - Lagoon Mango,0,$50.18,Semenivka
 1040,2026,Wine - Valpolicella Masi,6,$94.96,Sukadana
-"1032,2020,""Beef - Tongue, Cooked"",0,$55.63,Sollefteå"
-1021,2048,Dill Weed - Fresh,10,$97.14,Chhātak
+"1032,2020,""Beef - Tongue, Cooked"",0,$55.63,SollefteÃ¥"
+1021,2048,Dill Weed - Fresh,10,$97.14,ChhÄtak
 1019,2020,Pork - European Side Bacon,2,$61.65,Srostki
 1020,2002,Beans - Fava Fresh,2,$27.25,Cha-am
 1000,2096,Muffin Batt - Carrot Spice,7,$16.69,Shuren
@@ -486,48 +486,48 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1050,2035,""Pasta - Gnocchi, Potato"",5,$36.94,Baiqiao"
 1045,2040,Sugar - Icing,9,$10.14,Stockholm
 "1049,2033,""Lid - High Heat, Super Clear"",7,$94.45,Yuyue"
-1001,2030,Soup Bowl Clear 8oz92008,7,$10.97,Värnamo
+1001,2030,Soup Bowl Clear 8oz92008,7,$10.97,VÃ¤rnamo
 "1035,2054,""Pepper - Chipotle, Canned"",9,$40.13,Magole"
-1026,2021,Vol Au Vents,8,$8.32,Axioúpoli
-1018,2044,Devonshire Cream,8,$3.78,Araulí
+1026,2021,Vol Au Vents,8,$8.32,AxioÃºpoli
+1018,2044,Devonshire Cream,8,$3.78,AraulÃ­
 1017,2026,Cinnamon - Stick,9,$52.21,Francisco Villa
 1000,2054,Poppy Seed,3,$22.39,Longping
-1045,2093,Temperature Recording Station,2,$73.19,Bardīyah
+1045,2093,Temperature Recording Station,2,$73.19,BardÄ«yah
 1033,2018,Mcguinness - Blue Curacao,8,$54.23,Dhidhdhoo
 1017,2053,Smirnoff Green Apple Twist,2,$30.70,Suai
 1025,2091,Cup - 8oz Coffee Perforated,4,$36.75,Pavlovka
 1049,2032,Wasabi Paste,4,$27.63,Heyin
-1042,2077,Red Currant Jelly,1,$87.07,Czchów
+1042,2077,Red Currant Jelly,1,$87.07,CzchÃ³w
 1008,2062,Wooden Mop Handle,1,$39.52,Maromitsa
 1008,2099,Sugar - Crumb,3,$9.22,Trmice
 "1024,2058,""Beef - Bones, Marrow"",8,$93.58,Gort"
 1029,2004,Yokaline,1,$19.17,San Juan
 1035,2020,Honey - Liquid,9,$39.03,Aksu
 1043,2049,Grapefruit - Pink,5,$38.62,Huatai
-"1014,2089,""Yeast - Fresh, Fleischman"",4,$21.97,Santulhão"
-1037,2057,Beer - Upper Canada Light,2,$82.71,Vân Canh
+"1014,2089,""Yeast - Fresh, Fleischman"",4,$21.97,SantulhÃ£o"
+1037,2057,Beer - Upper Canada Light,2,$82.71,VÃ¢n Canh
 1005,2022,Corn - Mini,5,$31.92,Luofang
 "1033,2002,""Crush - Grape, 355 Ml"",4,$45.78,Tres Unidos"
 1038,2065,Pie Filling - Cherry,9,$74.09,Frankfort
-1014,2075,Sauce - Mint,7,$56.08,Paiçandu
+1014,2075,Sauce - Mint,7,$56.08,PaiÃ§andu
 1030,2084,Taro Leaves,7,$13.51,Nuevitas
-1017,2085,Jolt Cola - Electric Blue,2,$54.71,Verkhniye Osel’ki
+1017,2085,Jolt Cola - Electric Blue,2,$54.71,Verkhniye Oselâ€™ki
 1023,2082,Dooleys Toffee,3,$24.50,Kamiiso
-1031,2047,Squash - Guords,2,$61.74,Primošten
+1031,2047,Squash - Guords,2,$61.74,PrimoÅ¡ten
 1004,2072,Pastry - Cheese Baked Scones,1,$29.41,Fuzhiping
-1044,2053,Liquid Aminios Acid - Braggs,5,$14.51,Cereté
+1044,2053,Liquid Aminios Acid - Braggs,5,$14.51,CeretÃ©
 1050,2008,Remy Red,7,$96.36,Mykonos
 1025,2072,Sugar - Cubes,0,$35.13,Shimen
 1036,2070,Soup - French Onion,10,$13.45,Dumaguil
 1038,2008,Curry Powder Madras,2,$74.70,Xingnong
-"1025,2049,""Wine - Red, Marechal Foch"",10,$89.12,Lávara"
+"1025,2049,""Wine - Red, Marechal Foch"",10,$89.12,LÃ¡vara"
 1024,2093,Milkettes - 2%,10,$55.07,Saguenay
 1042,2034,Goat - Whole Cut,1,$4.20,Guatire
 "1005,2040,""Shrimp, Dried, Small / Lb"",5,$79.29,San Diego"
 1049,2020,Potatoes - Peeled,4,$76.90,Kudahuvadhoo
 1034,2049,Wine - Dubouef Macon - Villages,10,$78.88,Benito Juarez
 1046,2074,Lamb - Shoulder,8,$63.19,Kalkara
-"1039,2045,""Lentils - Green, Dry"",4,$94.43,Ōzu"
+"1039,2045,""Lentils - Green, Dry"",4,$94.43,ÅŒzu"
 1030,2083,Kiwi,9,$91.36,Albany
 1031,2002,Garbage Bags - Clear,7,$30.42,Lingkou
 "1004,2065,""Vermouth - Sweet, Cinzano"",7,$27.10,Estela"
@@ -543,9 +543,9 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1012,2056,Ice Cream Bar - Hageen Daz To,6,$36.75,Seseng
 1038,2083,Glove - Cutting,9,$44.41,Albuera
 1011,2040,Bread - Kimel Stick Poly,4,$75.33,Longford
-1032,2050,Pork - Inside,0,$92.02,Cácota
+1032,2050,Pork - Inside,0,$92.02,CÃ¡cota
 1026,2084,Pants Custom Dry Clean,1,$68.60,Mugan
-1041,2004,Wine - Barossa Valley Estate,4,$88.21,Buđanovci
+1041,2004,Wine - Barossa Valley Estate,4,$88.21,BuÄ‘anovci
 1008,2068,Water - San Pellegrino,7,$75.21,Nayak
 1045,2081,Cheese - Le Cru Du Clocher,6,$41.36,Balungkopi
 1043,2044,Chocolate - Dark,3,$6.91,San Francisco
@@ -557,26 +557,26 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1048,2055,Flavouring Vanilla Artificial,1,$73.59,Roma
 "1000,2062,""Artichoke - Hearts, Canned"",7,$32.07,Shuanghe"
 1033,2032,Shrimp - 150 - 250,9,$8.10,Huangliang
-"1035,2011,""Crab - Blue, Frozen"",1,$24.14,Bahía Blanca"
+"1035,2011,""Crab - Blue, Frozen"",1,$24.14,BahÃ­a Blanca"
 1031,2036,Tea - Herbal Orange Spice,6,$95.18,Dallas
 1039,2071,Cheese - Mascarpone,7,$85.42,Bordeaux
 1015,2071,Tea - Lemon Scented,8,$18.07,Rosetta
-1027,2099,Tobasco Sauce,9,$53.84,Pueblo Nuevo Viñas
+1027,2099,Tobasco Sauce,9,$53.84,Pueblo Nuevo ViÃ±as
 1009,2015,Soap - Hand Soap,5,$48.09,Higashine
 "1049,2036,""Tortillas - Flour, 12"",4,$3.98,Jiucaigou"
 "1016,2031,""Mushroom - Morels, Dry"",1,$91.99,East London"
 1034,2073,Knife Plastic - White,4,$33.16,Koror
-1001,2087,Flour - Cake,7,$83.33,Kāleke Mandi
+1001,2087,Flour - Cake,7,$83.33,KÄleke Mandi
 1044,2066,French Pastry - Mini Chocolate,0,$45.96,Baiheshan
 1034,2034,Truffle - Peelings,5,$19.19,Pasirmukti
 1007,2045,Devonshire Cream,2,$83.72,Noda
 1043,2059,Kumquat,0,$89.93,Luocheng
-1038,2035,Pie Shell - 9,3,$12.90,Lianokládhion
+1038,2035,Pie Shell - 9,3,$12.90,LianoklÃ¡dhion
 1024,2077,Southern Comfort,3,$40.14,Vrbice
-1003,2002,Bacardi Limon,9,$97.23,Shi’ao
+1003,2002,Bacardi Limon,9,$97.23,Shiâ€™ao
 1007,2100,Ice Cream - Fudge Bars,0,$81.25,Zhoukou
 "1011,2024,""Bread - Dark Rye, Loaf"",7,$79.63,Calde"
-"1012,2001,""Soda Water - Club Soda, 355 Ml"",3,$8.98,Duwayr Raslān"
+"1012,2001,""Soda Water - Club Soda, 355 Ml"",3,$8.98,Duwayr RaslÄn"
 1025,2048,Wine - Baron De Rothschild,10,$16.14,Shuanghekou
 1050,2080,Oil - Canola,3,$18.16,Yanping
 1036,2072,Chips Potato Reg 43g,8,$95.88,Sirdaryo
@@ -587,7 +587,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1008,2035,Icecream - Dstk Cml And Fdg,10,$63.89,Mtimbira
 1033,2001,Onions - Red,4,$15.92,Kill
 1021,2088,Arctic Char - Fillets,8,$68.49,Wola Uhruska
-1048,2078,Cheese - Pont Couvert,5,$5.52,Ḩalāwah
+1048,2078,Cheese - Pont Couvert,5,$5.52,á¸¨alÄwah
 1041,2051,Sprouts - Brussel,0,$68.43,Germiston
 1028,2097,Calypso - Lemonade,5,$65.21,Hesheng
 1014,2019,Wine - German Riesling,0,$13.70,Goris
@@ -600,39 +600,39 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1007,2070,""Brocolinni - Gaylan, Chinese"",8,$15.08,Betania"
 "1045,2020,""Cheese - Cheddar, Medium"",1,$81.93,Muara Dua"
 "1046,2059,""Salmon - Smoked, Sliced"",2,$91.34,Miaoya"
-1010,2054,Peach - Fresh,3,$52.96,Cabreúva
+1010,2054,Peach - Fresh,3,$52.96,CabreÃºva
 1033,2052,Mix - Cappucino Cocktail,4,$86.74,Jiajiaying
 "1032,2031,""Thyme - Lemon, Fresh"",3,$56.32,Batticaloa"
 1002,2047,Nori Sea Weed - Gold Label,4,$72.48,Hengqu
-1010,2035,Sprouts Dikon,9,$36.56,Kungsör
+1010,2035,Sprouts Dikon,9,$36.56,KungsÃ¶r
 1036,2040,Carbonated Water - White Grape,6,$82.66,Hubei
 1023,2042,Rice Wine - Aji Mirin,5,$18.03,Maojiadian
 1028,2093,Beans - Yellow,2,$77.88,Visby
 1006,2066,Flour - Strong,0,$54.77,Extrema
 1024,2025,Wine - Rosso Del Veronese Igt,9,$77.94,Xintian
 "1038,2086,""Bread - Pumpernickle, Rounds"",5,$83.12,Sukarara Utara"
-1035,2063,Chickensplit Half,2,$50.30,Apače
+1035,2063,Chickensplit Half,2,$50.30,ApaÄe
 1002,2077,Chicken Thigh - Bone Out,5,$4.80,Nunsena
 1020,2030,Wine - Coteaux Du Tricastin Ac,4,$88.25,Koronadal
-1047,2005,Soup Campbells - Italian Wedding,2,$20.81,Żebbuġ
-1029,2036,Tea - Jasmin Green,5,$83.98,Nova Varoš
+1047,2005,Soup Campbells - Italian Wedding,2,$20.81,Å»ebbuÄ¡
+1029,2036,Tea - Jasmin Green,5,$83.98,Nova VaroÅ¡
 "1002,2075,""Nut - Peanut, Roasted"",9,$61.81,Omsk"
 1021,2052,Tomatoes,4,$69.07,Cangshan
 "1050,2092,""Wine - White, Schroder And Schyl"",8,$27.23,Saint-Pierre"
 1046,2075,Coffee Decaf Colombian,0,$91.84,Houk
 1009,2064,Pasta - Fusili Tri - Coloured,2,$20.76,Caen
-1029,2094,Kale - Red,4,$57.08,Edéa
-1033,2038,Longos - Chicken Caeser Salad,5,$56.55,Dolní Počernice
+1029,2094,Kale - Red,4,$57.08,EdÃ©a
+1033,2038,Longos - Chicken Caeser Salad,5,$56.55,DolnÃ­ PoÄernice
 1010,2063,Chocolate - Mi - Amere Semi,6,$59.78,Honolulu
-"1005,2098,""Soup - Cream Of Broccoli, Dry"",10,$27.81,Ol’ginskaya"
+"1005,2098,""Soup - Cream Of Broccoli, Dry"",10,$27.81,Olâ€™ginskaya"
 1039,2001,Pork - Backfat,10,$18.61,Matamey
 1019,2092,Wine - Sauvignon Blanc,1,$70.46,Bebedouro
 1003,2082,Table Cloth 72x144 White,6,$19.52,Jembangan
 1044,2036,Table Cloth 54x54 Colour,8,$96.91,Xiangyang
 1037,2038,Ecolab - Hand Soap Form Antibac,1,$99.50,Aurora
 "1042,2010,""Sauce - Bernaise, Mix"",5,$47.46,Dobri Dol"
-1039,2027,Cheese - Asiago,0,$22.43,Acacías
-1004,2018,Truffle Cups - Brown,8,$96.76,Madjeouéni
+1039,2027,Cheese - Asiago,0,$22.43,AcacÃ­as
+1004,2018,Truffle Cups - Brown,8,$96.76,MadjeouÃ©ni
 "1023,2044,""Wine - White, Gewurtzraminer"",3,$32.74,Ifo"
 1029,2000,Pea - Snow,8,$70.26,Oskarshamn
 "1034,2094,""Tea - Darjeeling, Azzura"",3,$92.67,Shenji"
@@ -644,7 +644,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1009,2054,Wine - Chardonnay South,8,$42.99,Ipubi
 1014,2007,Cookie - Dough Variety,9,$53.77,Zambujal
 "1035,2009,""Lettuce - Mini Greens, Whole"",4,$33.00,Zakhim"
-1023,2019,Milk - Chocolate 250 Ml,9,$60.26,Gävle
+1023,2019,Milk - Chocolate 250 Ml,9,$60.26,GÃ¤vle
 1018,2081,Vodka - Moskovskaya,0,$72.28,Ubatuba
 1035,2034,Wine - Ruffino Chianti,3,$98.09,Fuvahmulah
 1027,2099,Beans - Kidney White,3,$4.90,Sergiyev Posad
@@ -655,7 +655,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1044,2019,""Juice - Apple, 500 Ml"",10,$67.34,Saint-Priest"
 1010,2099,Wine - Beaujolais Villages,5,$64.59,Shixi
 1025,2081,Spice - Chili Powder Mexican,4,$96.99,Lau
-1041,2011,Glass - Juice Clear 5oz 55005,0,$60.91,Vänersborg
+1041,2011,Glass - Juice Clear 5oz 55005,0,$60.91,VÃ¤nersborg
 1010,2071,Shrimp - Black Tiger 26/30,4,$21.46,La Habana Vieja
 1005,2065,Pastry - Chocolate Chip Muffin,3,$12.23,Sumilao
 "1013,2074,""Cheese - Brie, Triple Creme"",8,$10.83,Brok"
@@ -664,19 +664,19 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1046,2065,Beef Ground Medium,0,$59.11,Xinqiao
 1025,2071,Cinnamon Buns Sticky,2,$51.66,Dulag
 1024,2008,Bandage - Finger Cots,5,$97.46,Gaoliban
-1042,2023,Venison - Striploin,2,$79.75,Zavety Il’icha
+1042,2023,Venison - Striploin,2,$79.75,Zavety Ilâ€™icha
 1009,2034,Wine - Prosecco Valdobienne,4,$38.10,Jinping
 1030,2005,Vinegar - White Wine,1,$53.14,Roseau
-1001,2051,Bagel - Everything,2,$36.81,Mirów
+1001,2051,Bagel - Everything,2,$36.81,MirÃ³w
 "1008,2027,""Fish - Artic Char, Cold Smoked"",5,$90.65,Fenoarivo Be"
 1026,2034,Wine - Chardonnay South,8,$89.47,Mytishchi
-1025,2056,Sausage - Breakfast,0,$49.21,Kitāf
+1025,2056,Sausage - Breakfast,0,$49.21,KitÄf
 1018,2086,Sausage - Blood Pudding,8,$95.87,Cibolang
 1021,2040,Pepper - Roasted Red,0,$14.59,Wengaingo
 1037,2100,Cheese - Brick With Pepper,5,$11.47,Sredniy
 1024,2051,Brandy - Bar,8,$16.42,Busdi
 1001,2053,Wine - Beringer Founders Estate,9,$76.35,Babura
-"1023,2040,""Soup - Knorr, French Onion"",0,$27.47,Pā’īn-e Bāzār-e Rūdbār"
+"1023,2040,""Soup - Knorr, French Onion"",0,$27.47,PÄâ€™Ä«n-e BÄzÄr-e RÅ«dbÄr"
 1035,2013,Dr. Pepper - 355ml,5,$95.13,Shendang
 1005,2083,Pork Salted Bellies,0,$47.68,Novosineglazovskiy
 1022,2002,Compound - Mocha,5,$10.73,Pore
@@ -701,9 +701,9 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1046,2033,Bread - Petit Baguette,8,$94.58,Patos Fshat
 1033,2072,Cake - Dulce De Leche,5,$1.01,Kachkanar
 1029,2096,Lamb - Ground,7,$30.31,Al Jubayl
-1012,2031,Devonshire Cream,8,$75.69,Vathýlakkos
+1012,2031,Devonshire Cream,8,$75.69,VathÃ½lakkos
 1020,2061,Cheese - Cottage Cheese,3,$11.43,Tauranga
-1045,2000,Bulgar,5,$47.04,Marne-la-Vallée
+1045,2000,Bulgar,5,$47.04,Marne-la-VallÃ©e
 1038,2032,Apple - Custard,0,$26.65,Domoni
 1040,2083,Bols Melon Liqueur,7,$28.31,Arenal
 1000,2028,Wine - Vovray Sec Domaine Huet,6,$41.01,Chlumec nad Cidlinou
@@ -719,15 +719,15 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1010,2060,Lettuce - Iceberg,8,$40.78,Mikulintsy
 1044,2050,Wine - Vineland Estate Semi - Dry,9,$21.36,Wucheng
 1017,2021,Pastry - Raisin Muffin - Mini,9,$98.13,Kalahang
-"1015,2094,""Turkey - Breast, Double"",9,$10.63,Umm Sa‘īd"
+"1015,2094,""Turkey - Breast, Double"",9,$10.63,Umm Saâ€˜Ä«d"
 1042,2015,Tomatoes Tear Drop,10,$36.64,Chengxiang
 "1035,2009,""Sugar - Sweet N Low, Individual"",3,$16.85,Anta"
 1025,2035,Cake - French Pear Tart,2,$88.41,Orleans
-1004,2100,Croissants Thaw And Serve,8,$73.96,Inda Silasē
+1004,2100,Croissants Thaw And Serve,8,$73.96,Inda SilasÄ“
 "1018,2059,""Water, Tap"",7,$81.45,Jevremovac"
 1032,2093,Water - Aquafina Vitamin,4,$20.15,Kimaam
 "1039,2065,""Wine - White, Lindemans Bin 95"",9,$86.02,Pochuta"
-1024,2093,Sausage - Meat,1,$39.53,Drásov
+1024,2093,Sausage - Meat,1,$39.53,DrÃ¡sov
 1039,2052,Salt - Kosher,5,$13.36,Leluo
 "1050,2014,""Wine - Sherry Dry Sack, William"",7,$23.62,Phayuha Khiri"
 1028,2090,Cake - French Pear Tart,7,$98.18,Abaca
@@ -735,10 +735,10 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1032,2038,Soup - Campbells Pasta Fagioli,10,$66.74,Esperanza
 "1029,2091,""Wine - Niagara,vqa Reisling"",9,$81.66,Bang Bo District"
 1026,2021,Pepper - Chili Powder,8,$43.58,Calvos
-1041,2015,Carroway Seed,5,$64.85,Piraí
+1041,2015,Carroway Seed,5,$64.85,PiraÃ­
 1049,2011,Wine - Chateau Timberlay,3,$55.02,Sakassou
 1005,2089,Cleaner - Pine Sol,4,$3.52,Barcelona
-"1007,2080,""Water - Mineral, Natural"",8,$2.21,Vol’sk"
+"1007,2080,""Water - Mineral, Natural"",8,$2.21,Volâ€™sk"
 1042,2042,Beef - Sushi Flat Iron Steak,3,$50.76,Gaotang
 1024,2087,Lemon Balm - Fresh,8,$3.99,Malabugas
 1026,2010,Bagelers,3,$69.60,Awayan
@@ -746,14 +746,14 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1008,2096,Wine - Jaboulet Cotes Du Rhone,9,$16.97,Lokorae
 1007,2027,Wine - Stoneliegh Sauvignon,3,$62.21,Sindangpanji
 1033,2079,Soup - French Can Pea,10,$16.93,Santa Ana
-1011,2039,Extract Vanilla Pure,4,$15.44,Sehwān
+1011,2039,Extract Vanilla Pure,4,$15.44,SehwÄn
 1016,2054,Pepper - Roasted Red,6,$61.22,Panalingaan
 1021,2037,Sherry - Dry,2,$86.69,Phitsanulok
 "1032,2052,""Pepper - Black, Crushed"",10,$90.21,Lewoduli"
 1022,2022,Cream Of Tartar,2,$32.64,Subkowy
 1011,2021,Milkettes - 2%,10,$9.03,Turki
 1037,2006,Transfer Sheets,9,$88.78,Lusaka
-1011,2050,Beef - Rib Eye Aaa,3,$31.86,Cabeças Verdes
+1011,2050,Beef - Rib Eye Aaa,3,$31.86,CabeÃ§as Verdes
 1040,2007,Wine - Rioja Campo Viejo,3,$6.16,Teykovo
 1035,2051,Wine - Vouvray Cuvee Domaine,10,$83.37,Kubanskiy
 1001,2081,Hog / Sausage Casing - Pork,1,$61.41,Seremban
@@ -768,13 +768,13 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1000,2040,Cheese - Ricotta,4,$90.07,Yanqi
 1027,2052,Chocolate Liqueur - Godet White,8,$5.29,Ketanggi
 1043,2050,Beer - Pilsner Urquell,1,$52.53,Mapaniqui
-1033,2068,Beef - Texas Style Burger,5,$88.46,Ying’ebu
+1033,2068,Beef - Texas Style Burger,5,$88.46,Yingâ€™ebu
 "1045,2069,""Bread - White, Sliced"",6,$55.17,Laixi"
 "1002,2027,""Fish - Scallops, Cold Smoked"",1,$33.07,Gaotaizi"
 1022,2054,Beef - Short Ribs,4,$50.67,Oeba
 1045,2017,Wine - Prem Select Charddonany,3,$13.76,Rancho Nuevo
 1037,2057,Wild Boar - Tenderloin,9,$45.45,Shaami-Yurt
-1017,2015,Nestea - Iced Tea,8,$46.24,Ad Dawḩah
+1017,2015,Nestea - Iced Tea,8,$46.24,Ad Dawá¸©ah
 1020,2010,Shrimp - Tiger 21/25,10,$30.50,Zimmi
 "1015,2035,""Pasta - Fettuccine, Egg, Fresh"",0,$1.52,Mourelos"
 "1023,2063,""Cake Circle, Paprus"",0,$48.06,Liloan"
@@ -786,22 +786,22 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1027,2040,Chambord Royal,0,$44.18,Klang
 1045,2012,Cookie Double Choco,4,$34.85,Neuss
 "1041,2007,""Crush - Grape, 355 Ml"",4,$3.64,White Rock"
-"1040,2067,""Lamb - Shoulder, Boneless"",8,$47.65,Praia da Vitória"
+"1040,2067,""Lamb - Shoulder, Boneless"",8,$47.65,Praia da VitÃ³ria"
 1048,2041,Piping - Bags Quizna,10,$93.20,Bulu
 1002,2017,Iced Tea Concentrate,10,$54.83,Eshan
 1030,2032,Sambuca Cream,0,$43.24,Stockholm
 1038,2092,Beer - Steamwhistle,5,$13.98,Gweru
 1009,2077,Peach - Halves,3,$77.17,Aoqiao
-1002,2052,Potatoes - Parissienne,2,$13.90,Przybiernów
+1002,2052,Potatoes - Parissienne,2,$13.90,PrzybiernÃ³w
 1037,2076,Beets,10,$96.36,Chengmagang
-1012,2051,Yeast Dry - Fermipan,1,$13.08,Quế Sơn
+1012,2051,Yeast Dry - Fermipan,1,$13.08,Quáº¿ SÆ¡n
 1003,2098,Tomatoes - Orange,2,$79.10,Yerevan
 "1004,2089,""Wine - White, Pinot Grigio"",7,$19.81,Reshui"
 1043,2040,Container Clear 8 Oz,5,$38.25,Vilque
 1010,2073,Aspic - Clear,3,$16.58,Lugang
 1008,2027,Slt - Individual Portions,4,$25.59,Bagratashen
 1020,2094,Dragon Fruit,5,$98.40,Phuthaditjhaba
-1031,2015,Fudge - Cream Fudge,0,$38.47,Līgatne
+1031,2015,Fudge - Cream Fudge,0,$38.47,LÄ«gatne
 1026,2066,Sesame Seed Black,0,$16.55,Casa Nova
 1001,2046,Rosemary - Dry,8,$53.58,Markala
 1038,2021,Vinegar - Balsamic,8,$64.41,Bromma
@@ -816,20 +816,20 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1035,2037,Taro Root,6,$77.50,Xinxian
 1049,2070,Allspice - Jamaican,3,$79.95,Nabeul
 1000,2071,Sauce - Fish 25 Ozf Bottle,6,$4.51,Kotatengah
-1011,2065,Compound - Passion Fruit,2,$48.01,Rio Covo ( Santa Eulália )
+1011,2065,Compound - Passion Fruit,2,$48.01,Rio Covo ( Santa EulÃ¡lia )
 1043,2078,Cabbage Roll,8,$95.53,Karangora
 1037,2011,Paper Towel Touchless,3,$2.15,Gaoqiao
 1004,2080,Salt - Seasoned,2,$30.02,Mukdahan
-1026,2043,Bacardi Breezer - Tropical,3,$49.47,Santiago do Cacém
+1026,2043,Bacardi Breezer - Tropical,3,$49.47,Santiago do CacÃ©m
 1037,2041,Salad Dressing,2,$74.92,Kara
 1032,2012,Squash - Butternut,2,$20.28,Richmond
-1036,2060,Puff Pastry - Sheets,5,$91.83,Žďár nad Sázavou Druhy
+1036,2060,Puff Pastry - Sheets,5,$91.83,Å½ÄÃ¡r nad SÃ¡zavou Druhy
 1006,2018,Lamb Tenderloin Nz Fr,7,$50.15,Manturovo
-1030,2019,Garlic - Elephant,0,$61.23,Cao Thượng
+1030,2019,Garlic - Elephant,0,$61.23,Cao ThÆ°á»£ng
 1048,2092,Table Cloth 62x114 Colour,3,$1.05,Checun
 1043,2065,Squid - Tubes / Tenticles 10/20,1,$4.51,Ankola
 "1003,2070,""Salmon - Atlantic, No Skin"",5,$18.99,Nelson"
-1046,2063,Wine - Gato Negro Cabernet,2,$10.68,Chang’an
+1046,2063,Wine - Gato Negro Cabernet,2,$10.68,Changâ€™an
 1018,2036,Salt - Celery,3,$28.20,Chojnice
 1015,2034,Yokaline,4,$52.03,Qingnianlu
 1008,2040,Cheese - Feta,4,$20.30,Gampingan
@@ -844,14 +844,14 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1019,2092,""Pasta - Lasagna Noodle, Frozen"",9,$87.16,Banag"
 1016,2072,Honey - Comb,2,$26.02,Neiafu
 1022,2011,Mace,3,$54.75,Taishan
-1044,2055,Pan Grease,2,$91.47,Przemyśl
+1044,2055,Pan Grease,2,$91.47,PrzemyÅ›l
 1002,2074,Truffle Shells - White Chocolate,0,$43.23,Wako
 1036,2008,Assorted Desserts,0,$80.53,Fresno
 "1022,2013,""Quail - Eggs, Fresh"",5,$79.88,Terpinnya"
 1022,2044,Mint - Fresh,0,$72.32,Ban Nong Wua So
 "1026,2087,""Pork - Butt, Boneless"",7,$79.56,Arendal"
 "1014,2082,""Lemonade - Island Tea, 591 Ml"",9,$59.09,Whakatane"
-1026,2096,Sage - Rubbed,5,$61.42,Mohale’s Hoek
+1026,2096,Sage - Rubbed,5,$61.42,Mohaleâ€™s Hoek
 1039,2060,Pears - Fiorelle,0,$81.30,Bibiani
 1021,2063,Wine - Chardonnay Mondavi,6,$40.19,Barbaza
 1003,2065,Vol Au Vents,1,$43.16,Payabon
@@ -861,7 +861,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1034,2028,Bread Bowl Plain,0,$85.26,Daxi
 "1026,2033,""Juice - Apple, 500 Ml"",7,$34.09,Cangkuang"
 1019,2082,Pickerel - Fillets,10,$26.52,Pakel
-1020,2034,Grapes - Red,6,$71.91,Čelinac
+1020,2034,Grapes - Red,6,$71.91,ÄŒelinac
 1004,2025,Bread Country Roll,3,$68.32,Qiqian
 1036,2051,Cheese - Cambozola,1,$44.08,Huangbao
 1012,2076,Bread - Multigrain Oval,4,$58.53,Zongga
@@ -871,10 +871,10 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1001,2032,Rice - Wild,0,$39.66,Chingas
 1013,2016,Cranberry Foccacia,10,$63.02,Nanae
 "1027,2005,""Bread - Multigrain, Loaf"",3,$98.96,La Victoria"
-1040,2082,Dried Figs,1,$69.20,Skópelos
-1033,2090,Bread - Ciabatta Buns,9,$31.96,Solânea
+1040,2082,Dried Figs,1,$69.20,SkÃ³pelos
+1033,2090,Bread - Ciabatta Buns,9,$31.96,SolÃ¢nea
 1042,2082,Huck White Towels,4,$79.82,Moutas
-1019,2010,Carbonated Water - Raspberry,5,$37.26,Kimil’tey
+1019,2010,Carbonated Water - Raspberry,5,$37.26,Kimilâ€™tey
 1046,2067,Rambutan,0,$36.88,Borok
 1030,2066,Kohlrabi,8,$56.59,Hongyang
 1002,2019,Wine - Chateau Bonnet,9,$4.34,Pinheiral
@@ -891,37 +891,37 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1046,2043,Cherries - Fresh,8,$16.63,Vinnytsya
 "1036,2043,""Chicken - Base, Ultimate"",8,$89.03,Port Area"
 "1012,2066,""Doilies - 5, Paper"",6,$28.48,Sangiang"
-1028,2077,Bowl 12 Oz - Showcase 92012,2,$14.81,Potęgowo
+1028,2077,Bowl 12 Oz - Showcase 92012,2,$14.81,PotÄ™gowo
 1014,2078,Ocean Spray - Ruby Red,10,$97.30,Takayama
 1002,2018,Salt - Kosher,6,$88.18,Secang Barat
-1008,2086,Grouper - Fresh,3,$87.12,Łubnice
-1035,2063,Wine - Cave Springs Dry Riesling,8,$95.95,Si’erbao
+1008,2086,Grouper - Fresh,3,$87.12,Åubnice
+1035,2063,Wine - Cave Springs Dry Riesling,8,$95.95,Siâ€™erbao
 1050,2070,Beef - Prime Rib Aaa,1,$13.67,Luhyny
-1029,2079,Cape Capensis - Fillet,4,$59.32,Khārān
+1029,2079,Cape Capensis - Fillet,4,$59.32,KhÄrÄn
 1005,2031,Bacon Strip Precooked,6,$35.28,Tudela
 1020,2019,Bread - Triangle White,1,$1.84,Montfort-sur-Meu
 1033,2036,Beef - Striploin Aa,5,$82.96,Ban Khok
 1003,2081,Muffin Carrot - Individual,6,$70.06,Gutang
 1001,2002,Eggplant - Baby,2,$31.96,Pinayagan Norte
-"1017,2012,""Tortillas - Flour, 8"",9,$19.19,Hoàn Kiếm"
-1037,2040,Alize Gold Passion,9,$27.57,Nazrēt
-"1049,2003,""Lentils - Red, Dry"",9,$78.54,Rizó"
+"1017,2012,""Tortillas - Flour, 8"",9,$19.19,HoÃ n Kiáº¿m"
+1037,2040,Alize Gold Passion,9,$27.57,NazrÄ“t
+"1049,2003,""Lentils - Red, Dry"",9,$78.54,RizÃ³"
 1011,2029,Dill Weed - Fresh,3,$89.85,Nizhnyaya Tavda
 "1048,2029,""Rum - Spiced, Captain Morgan"",4,$93.64,Cete"
 1014,2043,Wine - Marlbourough Sauv Blanc,10,$79.99,Fonte
-1038,2074,Sprouts - Corn,4,$92.09,Périgny
+1038,2074,Sprouts - Corn,4,$92.09,PÃ©rigny
 1031,2082,Melon - Watermelon Yellow,2,$22.50,Yamethin
-1045,2012,Ice Cream - Chocolate,1,$27.71,Maipú
+1045,2012,Ice Cream - Chocolate,1,$27.71,MaipÃº
 1048,2055,Beef - Tender Tips,2,$83.21,Shangdongjie
 1011,2074,Wine - Merlot Vina Carmen,2,$11.16,Vostryakovo
-"1040,2018,""Coconut - Creamed, Pure"",2,$37.93,Daugavgrīva"
+"1040,2018,""Coconut - Creamed, Pure"",2,$37.93,DaugavgrÄ«va"
 1042,2042,Baking Powder,5,$80.86,Banjar Sebual
-1004,2060,Cheese - Le Cheve Noir,5,$13.46,Ḩadādah
-1002,2023,Chocolate - Unsweetened,9,$97.77,Al ‘Āqir
+1004,2060,Cheese - Le Cheve Noir,5,$13.46,á¸¨adÄdah
+1002,2023,Chocolate - Unsweetened,9,$97.77,Al â€˜Ä€qir
 1045,2091,Salmon - Fillets,4,$28.52,North York
 1031,2063,Sprouts - Onion,7,$14.94,Soledade
 1048,2013,Juice - Orangina,4,$36.18,Haduohe
-1042,2089,Lidsoupcont Rp12dn,0,$98.32,Lashkar Gāh
+1042,2089,Lidsoupcont Rp12dn,0,$98.32,Lashkar GÄh
 1029,2086,Hinge W Undercut,7,$32.26,Tabuny
 1017,2088,Vinegar - Tarragon,5,$38.83,Gourcy
 "1036,2032,""Stock - Beef, Brown"",7,$40.74,Shangma"
@@ -930,14 +930,14 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 1044,2097,Yucca,4,$67.19,Cikijing
 1035,2100,Wine - Riesling Alsace Ac 2001,0,$60.08,Vis
 1050,2008,Scotch - Queen Anne,8,$84.24,Utama Wetan
-1047,2017,Milk - 2% 250 Ml,6,$97.54,Kōchi-shi
-1003,2018,Filo Dough,8,$70.24,Póvoa
+1047,2017,Milk - 2% 250 Ml,6,$97.54,KÅchi-shi
+1003,2018,Filo Dough,8,$70.24,PÃ³voa
 1039,2049,Mini - Vol Au Vents,8,$31.08,Utrecht (stad)
-1049,2067,Eel Fresh,4,$11.04,Vareš
+1049,2067,Eel Fresh,4,$11.04,VareÅ¡
 1048,2034,Schnappes Peppermint - Walker,4,$50.82,Ponte Nova
-1048,2068,Pepperoni Slices,3,$49.56,Oborniki Śląskie
+1048,2068,Pepperoni Slices,3,$49.56,Oborniki ÅšlÄ…skie
 1017,2068,Crush - Cream Soda,8,$91.87,El Pardo
-"1013,2073,""Clams - Littleneck, Whole"",5,$23.49,Vlachovo Březí"
+"1013,2073,""Clams - Littleneck, Whole"",5,$23.49,Vlachovo BÅ™ezÃ­"
 1017,2023,Hand Towel,3,$2.15,San Juan
 1039,2062,Cleaner - Pine Sol,1,$5.85,Sendai
 1018,2098,Parsley - Fresh,5,$57.37,Almada
@@ -946,7 +946,7 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1042,2066,""Doilies - 12, Paper"",1,$20.54,Barcelona"
 1028,2056,Squash - Pepper,5,$66.49,Meishan
 1038,2079,Brandy Apricot,6,$5.04,Colonia Aurora
-1032,2031,Broom And Brush Rack Black,6,$58.78,København
+1032,2031,Broom And Brush Rack Black,6,$58.78,KÃ¸benhavn
 "1007,2030,""Cake Circle, Foil, Scallop"",5,$40.35,Poncokusumo"
 1034,2058,Cheese - Marble,10,$23.19,Fuhai
 1010,2057,Squid - U - 10 Thailand,6,$99.69,Novobeysugskaya
@@ -959,43 +959,43 @@ id_customer,id_product,nombre,cantidad,valor,Ciudad
 "1033,2068,""Salmon - Atlantic, Fresh, Whole"",2,$10.46,Eskilstuna"
 1028,2073,Puff Pastry - Sheets,2,$46.67,Zhangjiaji
 1017,2030,Ketchup - Tomato,10,$35.57,Yinghai
-1017,2022,Flower - Carnations,10,$82.53,Thị Trấn Yên Châu
+1017,2022,Flower - Carnations,10,$82.53,Thá»‹ Tráº¥n YÃªn ChÃ¢u
 1006,2073,Beef - Tender Tips,4,$76.99,Grebenskaya
 1041,2009,Pur Value,5,$87.16,Jingxiyuan
 1040,2071,Tea - Herbal Orange Spice,2,$38.80,Melaka
-1050,2092,Island Oasis - Lemonade,3,$19.20,Rogów
+1050,2092,Island Oasis - Lemonade,3,$19.20,RogÃ³w
 1046,2075,Cabbage Roll,0,$60.73,Wujing
 1037,2044,Tequila Rose Cream Liquor,3,$72.36,Dzoraghbyur
-1010,2056,Bay Leaf Ground,0,$95.39,Poříčany
-1034,2016,Wine - Savigny - Les - Beaune,3,$94.01,Bahía Blanca
+1010,2056,Bay Leaf Ground,0,$95.39,PoÅ™Ã­Äany
+1034,2016,Wine - Savigny - Les - Beaune,3,$94.01,BahÃ­a Blanca
 1003,2075,Eggplant - Baby,2,$90.51,Landi Kotal
 1046,2005,Beer - Heinekin,8,$98.31,Argungu
 1038,2051,Sobe - Liz Blizz,5,$96.34,Abbeville
 1034,2050,Apricots - Dried,1,$81.83,Rokitno
-"1016,2004,""Pasta - Linguini, Dry"",0,$46.90,Lüyang"
+"1016,2004,""Pasta - Linguini, Dry"",0,$46.90,LÃ¼yang"
 1023,2097,Juice - Happy Planet,9,$40.03,Jepara
 "1014,2077,""Bread - Pullman, Sliced"",7,$17.78,Tseel"
-1050,2011,Beef - Bresaola,8,$20.71,Karditsomagoúla
+1050,2011,Beef - Bresaola,8,$20.71,KarditsomagoÃºla
 1040,2083,Veal - Kidney,2,$8.16,Guangdu
 1041,2083,Danishes - Mini Cheese,9,$60.05,Spring
 1018,2014,Chocolate - Milk Coating,3,$93.97,Liulimiao
 1017,2009,Crush - Cream Soda,10,$53.21,Karang Kulon
-"1035,2021,""Chicken - Breast, 5 - 7 Oz"",9,$2.64,Tromsø"
+"1035,2021,""Chicken - Breast, 5 - 7 Oz"",9,$2.64,TromsÃ¸"
 1032,2017,Carbonated Water - Wildberry,1,$72.33,Longsha
 1036,2093,Yoplait - Strawbrasp Peac,9,$19.10,Presnenskiy
 1024,2095,Contreau,9,$9.42,Panyarang
 1019,2061,Table Cloth 53x53 White,2,$96.18,Tubod
 1048,2083,Tea - English Breakfast,5,$7.71,Ambunti
 1038,2096,Trueblue - Blueberry Cranberry,3,$10.32,Kawanishi
-1010,2005,Ostrich - Prime Cut,2,$85.35,Raciążek
+1010,2005,Ostrich - Prime Cut,2,$85.35,RaciÄ…Å¼ek
 1020,2004,Vinegar - Champagne,4,$72.26,Jaunpiebalga
-1041,2092,Pasta - Orecchiette,1,$40.16,Xi’an
-1019,2081,Bread Roll Foccacia,6,$65.95,Utmānzai
-1040,2041,Water - Tonic,0,$76.75,Debark’
+1041,2092,Pasta - Orecchiette,1,$40.16,Xiâ€™an
+1019,2081,Bread Roll Foccacia,6,$65.95,UtmÄnzai
+1040,2041,Water - Tonic,0,$76.75,Debarkâ€™
 1036,2079,Wine - Conde De Valdemar,4,$14.68,Charlotte
 1024,2098,Soup Campbells Split Pea And Ham,4,$96.83,Gan Yavne
 "1038,2048,""Nut - Pine Nuts, Whole"",1,$38.24,Caldelas"
 1032,2021,Pear - Packum,0,$44.63,Yima
-1007,2096,Sprouts - Baby Pea Tendrils,7,$29.13,Milín
-"1028,2099,""Wine - Red, Pinot Noir, Chateau"",2,$99.15,Ladhewāla Warāich"
-1033,2037,Pails With Lids,8,$46.32,Feyẕābād
+1007,2096,Sprouts - Baby Pea Tendrils,7,$29.13,MilÃ­n
+"1028,2099,""Wine - Red, Pinot Noir, Chateau"",2,$99.15,LadhewÄla WarÄich"
+1033,2037,Pails With Lids,8,$46.32,Feyáº•ÄbÄd
